@@ -10,7 +10,7 @@ This is my first frontend project, it is based on developer portfolio and it fol
 - **Time Taken** : 2 Hour 
 - Experience gained on
     - Absoulute and relative positions
-    - flexbox
+    - Flexbox
 
 - Link to the site : [Vercel](https://01-monochrome-portfolio.vercel.app/)
 
